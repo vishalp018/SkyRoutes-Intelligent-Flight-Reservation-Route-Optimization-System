@@ -37,5 +37,4 @@ Efficient flight reservation and route optimization using graph algorithms for s
 ### Team Members:
 - [Aman](https://github.com/AmanSikarwar100)
 - [Vishal Pal](https://github.com/vishalp018)
-- [Lavanya Bansal](https://github.com/LavanyaBansal1)
 
